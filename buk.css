@@ -1,0 +1,79 @@
+*,html {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    background-color: rgb(119, 119, 119);
+    height: 100vh;
+    background: local;
+}
+.container-babu {
+    background-color: rgb(59, 59, 59);
+    width: 100%;
+    height: 100px;
+}
+
+.ul-babu {
+    display: flex;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.li-babu {
+    border: 2px solid black;
+    list-style-type: none;
+    padding: 10px;
+    color: white;
+    margin: 5px;
+}
+
+.li-babu:hover {
+    background-color: rgb(10, 10, 43);
+    transition: .3s ease-in-out;
+}
+
+.a-babu {
+    color: white;
+    text-decoration: none;
+}
+
+.container-coba {
+    background-color: rgb(119, 119, 119);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-coba {
+    width: 30%;
+    height: 30%;
+}
+
+.container-footer {
+    background-color: rgb(59, 59, 59);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1-babu {
+    font-size: 40px;
+}
+
+.bismilah {
+    background-color: rgb(119, 119, 119);
+    text-align: center;
+    font-size: 50px;
+}
+
+.c {
+    background-color: aqua;
+}
+
+.footer-bu {
+    padding-right: 5%;
+    padding-left: 48%;
+    
+}
